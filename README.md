@@ -63,5 +63,15 @@ JSON                         ▒░░░░░░░░░░░░░░░░
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1)
 
+### Past Projects
+
+ - https://mytutorsinc.com   
+ - https://fitemos.com 
+ - https://www.renttherunway.com 
+ - https://www.invictusmotors.co.uk 
+ - https://www.lemonade.com 
+ - http://testnet.wagyuswap.com
+ - https://matruecannabis.com/ 
+
 
 
