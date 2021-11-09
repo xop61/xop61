@@ -22,7 +22,7 @@ And the main point is I am a designer. I can make cool and clean designs for you
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   2 hrs 18 mins   ██████████████░░░░░░░░░░░   56.49 % 
@@ -35,8 +35,6 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
 
 ## Main Skill
-
-
 
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
@@ -73,7 +71,6 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
 
 
 ## License 
