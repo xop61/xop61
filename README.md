@@ -22,17 +22,6 @@ And the main point is I am a designer. I can make cool and clean designs for you
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!--START_SECTION:waka-->
-```text
-JavaScript                   ██████████████░░░░░░░░░░░  
-HTML                         █████▒░░░░░░░░░░░░░░░░░░░  
-JSX                          █████░░░░░░░░░░░░░░░░░░░░ 
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░
-```
-<!--END_SECTION:waka-->
-
-
-
 ## Main Skill
 
 
@@ -55,13 +44,6 @@ JSON                         ▒░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-
-## License 
-
-[![CC0](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://creativecommons.org/)
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1)
 
 ### Past Projects
 
