@@ -5,9 +5,6 @@ I have done web development for 11+ years.
 And the main point is I am a designer. I can make cool and clean designs for you and your users.
 
   <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:emilzoronjicdevelopment@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
