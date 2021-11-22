@@ -41,16 +41,3 @@ And the main point is I am a designer. I can make cool and clean designs for you
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-### Past Projects
-
- - https://mytutorsinc.com   
- - https://fitemos.com 
- - https://www.renttherunway.com 
- - https://www.invictusmotors.co.uk 
- - https://www.lemonade.com 
- - http://testnet.wagyuswap.com
- - https://matruecannabis.com/ 
-
-
-
